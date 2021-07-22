@@ -14,8 +14,8 @@ Here are some Resources to get you set-up for the Linux-Journey
 
 - Wikis:
 
-  - https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
-  - https://linuxmint-installation-guide.readthedocs.io/en/latest/
+  - [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
+  - [Linuxmint Installation Guide](https://linuxmint-installation-guide.readthedocs.io/en/latest/)
 
 - Recommended Distributions to try for Beginners:
   - [Ubuntu](https://ubuntu.com/#download)
@@ -150,4 +150,3 @@ But don't worry I have Got your back, try these amazing explanations to get star
 ## Authors
 
 - [@gauranshkumar](https://www.github.com/gauranshkumar)
-d

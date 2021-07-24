@@ -113,6 +113,14 @@ and so on.....
   | `dpkg --list <search-pattern>` | List installed Packages |
   | `dpkg -s <package-name>` | Check if a package is installed |
 
+#### File Permissions
+| Permission | Short Representation | Numeric Value |
+|------------|----------------------|---------------|
+| `READ`     | `r`                  | `4`           |
+| `WRITE`    | `w`                  | `2`           |
+| `EXECUTE`  | `x`                  | `1`           |
+
+
 ## Tools for Productivity
 
 - **Bash Scipting:** Bash Scripting is a great way to automate various task and use the full potential of the Linux. [Bash from scratch: learn enough bash to write your own scripts](https://dev.to/ahmedmusallam/bash-from-scratch-learn-enough-bash-to-write-your-own-scripts-189f) is a great Blogpost to get you started with it.
